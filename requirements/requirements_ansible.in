@@ -54,7 +54,7 @@ pycurl==7.43.0.1    # higher versions will not install without SSL backend speci
 # AWX usage
 psutil==5.7.0    # same as AWX requirement
 # VMware
-pyvmomi==6.7.3
+pyvmomi==7.0.1
 # WinRM
 backports.ssl-match-hostname==3.5.0.1
 pywinrm[kerberos]==0.3.0
